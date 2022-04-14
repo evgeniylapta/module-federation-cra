@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84c30b76-c793-4980-9e27-526cb5408c62" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/module-federation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/craco-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/src/bootstrap.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app2/craco-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app2/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app2/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app2/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app2/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app2/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app2/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app2/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app2/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app2/src/bootstrap.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app2/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lerna.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/.idea/app1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/app1/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app1/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/app1" />
+  </component>
+  <component name="ProjectId" id="27hqMwsiMIUqORXyAYTpKSYcAiZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app2/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app2/src" />
+      <recent name="$PROJECT_DIR$/app1/src" />
+      <recent name="$PROJECT_DIR$/app2" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84c30b76-c793-4980-9e27-526cb5408c62" name="Default Changelist" comment="" />
+      <created>1649782620804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649782620804</updated>
+      <workItem from="1649782621862" duration="10430000" />
+      <workItem from="1649824978265" duration="1819000" />
+      <workItem from="1649856755212" duration="1922000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="703" y="421" key="#ESLint" timestamp="1649786717415">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="703" y="421" key="#ESLint/0.0.1680.1050@0.0.1680.1050" timestamp="1649786717415" />
+    <state x="100" y="100" width="1480" height="850" key="DiffContextDialog" timestamp="1649825635911">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="100" y="100" width="1480" height="850" key="DiffContextDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1649825635911" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1649827164529">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1649827164529" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.25.1680.946@0.25.1680.946" timestamp="1649796379210" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1649827164528">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1649827164528" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.25.1680.946@0.25.1680.946" timestamp="1649796379173" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1649827164527">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1649827164527" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.25.1680.946@0.25.1680.946" timestamp="1649796379172" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1649827164528">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1649827164528" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.25.1680.946@0.25.1680.946" timestamp="1649796379209" />
+    <state x="100" y="100" width="1480" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1649858222337">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="100" y="100" width="1480" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1649858222337" />
+    <state x="100" y="100" width="1480" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1680.946@0.25.1680.946" timestamp="1649825936243" />
+  </component>
+</project>
